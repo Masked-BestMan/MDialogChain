@@ -3,4 +3,4 @@
 
 # 效果图
 
-![图片](img/preview1.gif)
+![图片](img/preview1.gif =360x)
